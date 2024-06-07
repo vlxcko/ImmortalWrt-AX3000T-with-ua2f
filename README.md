@@ -1,1 +1,2 @@
-## OpenWRTfork了xiaodu的仓库，尝试自己编译出来一个带有ua2f的固件
+OpenWRTfork了xiaodu的仓库，尝试自己编译出来一个带有ua2f的固件
+测试版本，不清楚能否正常使用。
